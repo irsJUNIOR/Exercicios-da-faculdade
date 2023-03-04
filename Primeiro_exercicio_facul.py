@@ -1,7 +1,5 @@
 # Primeiro exercicio da faculdade baseado em python##
-
 # Aqui vou calcular a porcentagem de uma garagem dentro de um terreno
-
 # Aqui vou nomear a variavel e usar o comando float para interpretar a entrada
 # de texto que o comando input irá solicitar, de forma numérica.
 
